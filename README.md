@@ -13,7 +13,6 @@ Development: https://github.com/mxcube/lucid3
 
 lucid3 is a computer vision Python library that detects crystallography samples holders.
 
-
 Current build status
 ====================
 
